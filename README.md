@@ -1,6 +1,7 @@
 
 # Mexico Restaurant Ratings 
- 
+
+ Presentation: https://www.linkedin.com/posts/maria-imuede-a7230152_tableau-activity-7111593095778967553-9R-r?utm_source=share&utm_medium=member_desktop
 
 ![Mexico resturant](https://github.com/MariaImuede/Power-Bi/assets/159175444/0b9946af-859e-4965-b445-924d8dc5221a)
 
