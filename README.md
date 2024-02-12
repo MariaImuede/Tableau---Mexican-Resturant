@@ -9,6 +9,7 @@
 ## Problem Statement
 
 The project aims to conduct a trend analysis of Mexican restaurant ratings using Tableau to gain insights into various aspects of dining experiences, including overall ratings, service quality, food quality, consumer demographics, restaurant franchises, cuisine preferences, and drinking levels.
+Dataset provided by: https://www.linkedin.com/company/quantum-analytics-ng/
 
 
 ### Steps followed 
